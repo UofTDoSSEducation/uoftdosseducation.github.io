@@ -1,6 +1,11 @@
 # Contributor Information
 
-## Contributor workflow
+## Creating a new repo for a course
+
+Instructors may choose any tool they are comfortable with. For instructors new to github pages, we created a template repository containing a Hugo site and theme ready to go. To use this template, go to https://github.com/UofTDoSSEducation/STA000, click on 'Use this template', 'Create a new repository'. Then configure with in
+structions in the section [Course repo settings](#Course-repo-settings).
+
+## git workflow
 
 The course repositories are set up to validate successful site build before allowing code changes to be merged into the 'main' branch. Therefore contributors must create a different branch for their work. People often name branches after the features or issues they work on. A typical workflow looks like this
 
