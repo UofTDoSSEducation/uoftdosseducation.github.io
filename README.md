@@ -3,7 +3,9 @@
 ## Creating a new repo for a course
 
 Instructors may choose any tool they are comfortable with. For instructors new to github pages, we created a template repository containing a Hugo site and theme ready to go. To use this template, go to https://github.com/UofTDoSSEducation/STA000, click on 'Use this template', 'Create a new repository'. Then configure with in
-structions in the section [Course repo settings](#Course-repo-settings).
+structions in the section [Course repo settings](#Course-repo-settings). Once the repo is pulled, please update the variables in hugo.toml, 'baseURL' and 'title'.
+
+To test the site, please [install HUGO](https://gohugo.io/installation/).
 
 ## git workflow
 
